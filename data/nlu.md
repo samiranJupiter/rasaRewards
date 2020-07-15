@@ -59,7 +59,7 @@
 - how many [points](points) do I have?
 - my [points](points)
 - what are my [points](points)?
-- reward [status](points)?
+- reward status?
 - what is my [rank](rank)?
 - has my [rank](rank) changed?
 - how much do I need to study today to maintain my [streak](streak)?
@@ -67,56 +67,56 @@
 - what is my daily [streak](streak)?
 - daily [record](streak)
 - national [rank](rank)
-- I came [23](rank)
-- my friend secured [2]{"entity": "rank"} position, what is mine?
-- I studied [2](streak) hours, what is my status?
-- I want to check my [status](points)
+- I came 23
+- my friend secured 2 [position](rank), what is mine?
+- I studied 2 hours, what is my [streak](streak)?
+- I want to check my status
 - I want to check my national [rank](rank)
-- is my national rank [54](rank)?
+- is my national [rank](rank) 54?
 - where is the status page?
 - take me to the status page
-- my friend came [45](rank), help me find him 
+- my friend came 45, help me find him 
 
 ## intent:spend_reward
-- I want to use my points
-- what can I buy for [100](points) points?
-- I want to cash in [50](points) points for [merchandise](goodies)
-- [discount](discount) for [100](points) points
+- I want to use my [points](points)
+- what can I buy for 100 [points](points)?
+- I want to cash in 50 [points](points) for [merchandise](goodies)
+- [discount](discount) for 100 [points](points)
 - where can I spend [reward](goodies)?
 - where can I cash in [points](points)?
 - cash in [reward](goodies)
 - I want to buy something
 - I want [discount](discount)
 - I want [goodies](goodies)
-- what can I get with [20](points) points?
-- what [discount](discount) do I get with 100 points?
+- what can I get with 20 [points](points)?
+- what [discount](discount) do I get with 100 [points](points)?
 - I want to use my [reward](points)
 - I want to get a [shirt](goodies)
 - I want a [discount](discount)
-- I want a discount of [10](discount) percent
-- [20](discount) percent discount
+- I want a [discount](discount) of 10 percent
+- 20 percent [discount](discount)
 - I want a [cap](goodies)
-- I want [14](discount) percent off
+- I want 14 percent off
 - I want [merchandise](goodies)
-- [15](discount) percent off
-- I would like to cash in [1000](points) points for a [discount](discount)
-- can I use my [rewards](points) to get a [cap](cap)?
-- where can I get use the [100](points) I earned?
+- 15 percent off
+- I would like to cash in 1000 [points](points) for a [discount](discount)
+- can I use my [rewards](points) to get a [cap](goodies)?
+- where can I get use the 100 [points](points) I earned?
 
 ## intent:earn_more
 - how do I increase my [points](points)?
-- how many points for [10](streak) day streak?
-- what reward do I get for [100](rank) rank?
+- how many points for 10 day [streak](streak)?
+- what reward do I get for 100 [rank](rank)?
 - I want to get more [points](points)
 - I want more [rewards](points)
 - I want to earn more [points](points)
 - increase [points](points)
 - method to increase [points](points)
 - ways to earn more [points](points)
-- how can I get [300](points) points?
+- how can I get 300 [points](points)?
 - I would like to get better national [rank](rank)
 - how do I earn more [rewards](points)?
-- I came [250](rank) what should I do get a better [rank](rank)?
+- I came 250 what should I do get a better [rank](rank)?
 - help me get a better [merchandise](goodies)
 - how can I get better?
 - where can I earn more [points](points)?
